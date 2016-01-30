@@ -1,5 +1,5 @@
 Malformed Input Checker for parent child relation
-------------------------------
+==========
 
 Given a binary tree as a sequence of (parent, child) tuples:
 (A B)(A C)(B G)(C H)(E F)(B D)(C E)
@@ -14,7 +14,7 @@ Write a program to find following errors in the tree:
 Input is a expression containing parent child relations. output is Error codes or success.
 
 Sample test cases
-=================
+------------
 
 - Input: (A B)(A C)(B G)(C H)(E F)(B D)(C E) Output: Success
 - Input: (A B)(A C)(A D) Output: E1
