@@ -1,0 +1,17 @@
+{
+  "name": "flipkart",
+  "version": "0.0.1",
+  "description": "Flipkart interview",
+  "main": "checker.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "flipkart"
+  ],
+  "author": "Nikhil Ranjan",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
